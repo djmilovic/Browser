@@ -34,7 +34,7 @@ public class BrowserSimple extends JFrame {
 	//inits the program == the frame our browser is gonna be in 
 
 	public void frameHandler() {
-		setTitle("Browser");
+		setTitle("BrowserSimple");
 		//fixed size, the user can't change it 
 		setSize(1280, 880);
 		//when we click on Exit, it's gonna quit the frame
